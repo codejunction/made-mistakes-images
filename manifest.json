@@ -2,12 +2,12 @@
 	"name": "Made Mistakes",
 	"icons": [
 		{
-			"src": "{{ site.url }}\/assets\/images\/android-chrome-192x192.png?v=RyowzAOe9M",
+			"src": "https:\/\/mademistakes.com\/assets\/images\/android-chrome-192x192.png?v=RyowzAOe9M",
 			"sizes": "192x192",
 			"type": "image\/png"
 		},
 		{
-			"src": "{{ site.url }}\/assets\/images\/android-chrome-512x512.png?v=RyowzAOe9M",
+			"src": "https:\/\/mademistakes.com\/assets\/images\/android-chrome-512x512.png?v=RyowzAOe9M",
 			"sizes": "512x512",
 			"type": "image\/png"
 		}
